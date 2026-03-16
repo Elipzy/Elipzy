@@ -9,7 +9,7 @@
 <h2 align="center">⚙️ Automation • Productivity • Scalable Systems</h2>
 
 <p align="center">
-workflows, and scalable solutions to optimize processes and improve productivity through code.
+ workflows, and scalable solutions to optimize processes and improve productivity through code.
 </p>
 
 <p align="center">
