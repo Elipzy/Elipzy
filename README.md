@@ -2,9 +2,8 @@
   <img src="https://raw.githubusercontent.com/CodingAce123/CodingAce123/refs/heads/master/files/top.png" width="100%" />
 </p>
 
-font=Orbitron&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Elipzy;Automation+%26+Workflow+Engineer;Building+Scalable+Solutions" />
-</p>
-  <img src="https://raw.githubusercontent.com/CodingAce123/CodingAce123/refs/heads/master/files/top.png" width="100%" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Elipzy;Automation+%26+Workflow+Engineer;Building+Scalable+Solutions" />
 </p>
 
 <p align="center">
