@@ -1,4 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=220&section=header&text=Elipzy&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CodingAce123/CodingAce123/refs/heads/master/files/top.png" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+MrSoma;Full+Stack+Developer;Building+scalable+APIs+and+automation+systems&center=true&width=600&height=50&color=00A8FF&size=22">
+</p>
 
 <h2 align="center">⚙️ Automation • Productivity • Scalable Systems</h2>
 
