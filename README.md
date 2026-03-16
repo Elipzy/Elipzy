@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=40&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Elipzy;Automation+%26+Workflow+Engineer;Creating+Tools+and+Scalable+Solutions;Optimizing+Processes+Through+Code" />
+  <img src="https://raw.githubusercontent.com/CodingAce123/CodingAce123/refs/heads/master/files/top.png" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+MrSoma;Full+Stack+Developer;Building+scalable+APIs+and+automation+systems&center=true&width=600&height=50&color=00A8FF&size=22">
+  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=40&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Elipzy;Automation+%26+Workflow+Engineer;Creating+Tools+and+Scalable+Solutions;Optimizing+Processes+Through+Code" />
 </p>
 
 <h2 align="center">⚙️ Automation • Productivity • Scalable Systems</h2>
