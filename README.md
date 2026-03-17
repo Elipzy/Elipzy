@@ -71,7 +71,7 @@
 
 ## 🤝 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-Elipzy-black?style=for-the-badge&logo=github)](https://github.com/Elipzy)
+[![GitHub](https://img.shields.io/badge/GitHub-Elipzy-black?style=for-the-badge&logo=github)](https://x.com/Elipzy_)
 
 ---
 
